@@ -9,7 +9,7 @@ pasta_destino = "C:\\Users\\Falcon\\Desktop\\musicas_baixadas"
 # Criar a pasta de destino, se não existir
 os.makedirs(pasta_destino, exist_ok=True)
 
-# Configuração do yt-dlp
+# Configuração do yt-dlp 
 ydl_opts = {
     "format": "bestaudio/best",
     "extractaudio": True,
