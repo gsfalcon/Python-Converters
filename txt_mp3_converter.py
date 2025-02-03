@@ -3,6 +3,7 @@ import yt_dlp
 
 # Nome do arquivo contendo as músicas
 arquivo_txt = "D:\GitHub\Python Converters\lista_de_musicas.txt"
+
 # Pasta onde os arquivos MP3 serão salvos
 pasta_destino = "C:\\Users\\Falcon\\Desktop\\musicas_baixadas"
 
